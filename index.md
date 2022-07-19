@@ -5,3 +5,4 @@
 ### [前端编码规范](./mdfile/2022-07-14-code.md)
 ### [sentry接入](./mdfile/2022-07-14-sentry.md)
 ### [Vue](./mdfile/2022-07-18-vue.md)
+### [设计模式](./mdfile/2022-07-19-class.md)
