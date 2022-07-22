@@ -1,3 +1,13 @@
+<!--
+ * @Author: KianCheng Bkcheng2729111@163.com
+ * @Date: 2022-07-13 10:27:58
+ * @LastEditors: KianCheng Bkcheng2729111@163.com
+ * @LastEditTime: 2022-07-22 09:50:43
+ * @FilePath: /kian.github.io/index.md
+ * @Description: 
+ * 
+ * Copyright (c) 2022 by KianCheng Bkcheng2729111@163.com, All Rights Reserved. 
+-->
 ### [flutter基础相关](./mdfile/2022-07-13-flutter.md)
 
 ### [flutter 与 node单线程相关](./mdfile/2022-07-13-flutterNode.md)
@@ -7,3 +17,6 @@
 ### [Vue](./mdfile/2022-07-18-vue.md)
 ### [设计模式](./mdfile/2022-07-19-class.md)
 ### [工程化](./mdfile/2022-07-20-build.md)
+
+
+### [日常感想](./mdfile/2022-07-22-think.md)
