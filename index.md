@@ -18,5 +18,6 @@
 ### [设计模式](./mdfile/2022-07-19-class.md)
 ### [工程化](./mdfile/2022-07-20-build.md)
 
+### [微前端](./mdfile/2022-08-04-micro.md)
 
 ### [日常感想](./mdfile/2022-07-22-think.md)
