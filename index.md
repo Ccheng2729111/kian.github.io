@@ -25,4 +25,4 @@
 ### [前端性能sdk开发](./mdfile/2022-08-08-sdk.md)
 ### [行尸走肉](./mdfile/2022-08-19-leader.md)
 ### [私有NPM](./mdfile/2022-08-22-npm.md)
-### [lerna](./mdfile/2022-08-25-lerna.md)
+### [lerna+yarn workspace](./mdfile/2022-08-25-lerna.md)
